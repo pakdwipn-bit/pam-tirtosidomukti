@@ -1,2 +1,1 @@
 # pam-tirtosidomukti
-sipam
